@@ -1,16 +1,13 @@
 - Notizen für mich selbst -
 
 1. npm install
-  -> um node modules in dem entsprechenden verzeichnis zu installieren.
+   -> um node modules in dem entsprechenden verzeichnis zu installieren.
 
-$ docker build -f Dockerfile.prod -t my-first-image:latest .
+$ docker build -f Dockerfile.prod -t blueprint .
 
-$ docker run -it -p 80:80 --rm my-first-image:latest
+$ docker run -d -it -p 80:80 --rm blueprint
 
-
-
---------------------------------------------------------------------------------------------------
-
+---
 
 # Getting Started with Create React App
 
