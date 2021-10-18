@@ -5,6 +5,9 @@
 Dieses Repository beinhaltet ein etwas abgespecktes "create-react-app" Projekt, welches zusammen mit einem Nginx Webserver in einem Docker Container ausgeführt werden soll.
 Dieses Projekt dient ausschließlich als Startpunkt für jegliche React-Anwendungen, welche schnell und unkompliziert gehostet werden sollen.
 
+Anleitung nach:
+https://mherman.org/blog/dockerizing-a-react-app/
+
 <br />
 
 ---
